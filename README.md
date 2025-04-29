@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/Venkatasaikishor/LEETCODES/tree/master/0039-combination-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Venkatasaikishor/LEETCODES/tree/master/0435-non-overlapping-intervals) |
 | [1014-k-closest-points-to-origin](https://github.com/Venkatasaikishor/LEETCODES/tree/master/1014-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/Venkatasaikishor/LEETCODES/tree/master/1014-k-closest-points-to-origin) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Venkatasaikishor/LEETCODES/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
